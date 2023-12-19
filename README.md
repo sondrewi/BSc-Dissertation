@@ -1,1 +1,1 @@
-The finalised version of my BSc dissertation group project on Medical Image Analysis for breast cancer can be downloaded here.
+The finalised version of my BSc dissertation group project on Medical Image Analysis for breast cancer can be downloaded here. Final year project as part of MSc in Mathematics at University of Edinburgh. Supervisor: Dr. Stuart King. Collaborators: Ethan Hao, Jason Cao, Prakash Nair. Acheieved Grade: 1st.
